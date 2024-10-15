@@ -1,0 +1,24 @@
+Name              Version                Source      Updated             Info
+----              -------                ------      -------             ----
+7zip              24.08                  main        2024-09-10 01:46:34
+ccleaner          6.28.11297             extras      2024-10-08 22:19:42
+cemu              2.2                    games       2024-09-25 00:10:39
+dark              3.14                   main        2024-10-05 20:53:08
+dotnet-sdk        8.0.402                main        2024-10-08 22:20:15
+everything        1.4.1.1024             extras      2024-04-03 02:15:22
+fastfetch         2.27.1                 main        2024-10-08 22:20:20
+firefox           128.0.2                            2024-10-15 23:26:59
+git               2.47.0                 main        2024-10-08 22:20:35
+gsudo             2.5.1                  main        2024-06-16 23:10:46
+localsend         1.15.4                 extras      2024-09-10 01:50:31
+magpie            0.11.1                 extras      2024-06-26 00:54:50
+Meslo-NF          3.2.1                  nerd-fonts  2024-05-30 00:15:45
+Meslo-NF-Mono     3.2.1                  nerd-fonts  2024-09-26 00:54:42
+microsoft-jdk     21.0.4                 java        2024-09-26 03:01:42
+nvm               1.1.12                 main        2024-05-26 00:58:14
+rufus             4.5                    extras      2024-06-16 23:10:49
+rustrover         2024.2.3-242.22855.133 extras      2024-10-08 22:22:20
+rustup            1.27.1                 main        2024-06-28 23:19:54
+sandboxie-plus-np 1.13.7                 nonportable 2024-05-09 02:09:43
+sunshine          0.23.1                 extras      2024-05-15 19:58:40
+wechat            3.9.11.25              extras      2024-09-10 01:53:06
